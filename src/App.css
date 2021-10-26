@@ -55,3 +55,51 @@ nav ul li{
 .navbar-toggler:hover{
   background-color: rgb(226, 222, 222) !important;
 }
+
+ul{
+  margin-top: 0.1rem;
+}
+
+
+/* HEADER  8888888888888888888888888888888888 */
+
+.header-wrapper{
+  position: relative;
+  background: url(./wall-and-laptop-background.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+
+}
+
+.main-info{
+  display: flex;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "Roboto Condensed" sans-serif;
+
+
+}
+
+.main-info h1{
+  color: var(--primary-orange);
+  font-size: 3rem;
+  /* margin-left: 7rem; */
+  text-transform: uppercase;
+}
+
+/* Typed Text 888888888888888888888888888 */
+
+
+.Typewriter__wrapper{
+  color: white !important;
+  font-size: 1.5rem;
+  /* margin-left:7rem; */
+}
