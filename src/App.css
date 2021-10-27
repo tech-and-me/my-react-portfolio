@@ -8,19 +8,19 @@ body{
 
 :root{
   --primary-white: #fff;
-  --primary-orange:#f9ab00; 
+  --primary-orange:#ebd831; 
   --primary-dark:rgba(255,255,255,0);
 }
 /* NAVBAR *8888888888888888888888888888888888888888888888888888888*/
  
 .logo{
-  width:16rem ;
+  width:10rem ;
 }
 
 .navbar-brand {
   max-width:15rem;
   padding:0 !important;
-  height: 6rem !important; 
+  height: 3.5rem !important; 
 }
 
 
@@ -103,3 +103,4 @@ ul{
   font-size: 1.5rem;
   /* margin-left:7rem; */
 }
+
